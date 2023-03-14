@@ -54,7 +54,7 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
       - pressure: The atmospheric pressure at Curiosity's location
     
     
-   4 Examine the data types that are currently associated with each column. If necessary, cast (or convert) the data to the appropriate datetime, int, or float data types.
+   4. Examine the data types that are currently associated with each column. If necessary, cast (or convert) the data to the appropriate datetime, int, or float data types.
    
    5. Analyze your dataset by using Pandas functions to answer the following questions:
 
